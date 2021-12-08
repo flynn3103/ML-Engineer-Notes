@@ -104,7 +104,7 @@
 * [6.1.1 Basics Regular Expression](NLP/RegEx.md)
 * [6.1.2 NLP Feature Engineering]()
 * [6.1.3 Word Embeddings]()
-* [6.1.4 Text Data Augmentation]()
+* [6.1.4 Text Data Augmentation](NLP/augumentation.md)
 
 [6.2 LSTM]()
 * [6.2.1 Introduction LSTM]()

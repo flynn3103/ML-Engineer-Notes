@@ -15,7 +15,7 @@ my_string.upper()
 my_string.capitalize()
 ```
 - **Splitting**:
-```py
+```py   
 my_string.split(sep=" ", maxsplit=2)
 #['This','string','will be split']
 my_string.rsplit(sep=" ", maxsplit=2)
