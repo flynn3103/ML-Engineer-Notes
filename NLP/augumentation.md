@@ -289,7 +289,7 @@ y_gen = np.ones(n_texts)
 ```
 
 ## 5 NLP Data Augmentation using 🤗 Transformers
-#
+
 ### 5.1 Back Translation using Transformers
 This is the technique I find most interesting, here we first convert the sentence to a different language using a model and then convert it back to the target language. As we use a ML model to this, it results in sentence equivalent to the original sentence but with different words. There are various pre-trained models available on Huggingface model hub like Google T5, Facebook NMT (Neural Machine Translation) etc. In the below code I am using T5-base for English to German translation and then using Bert2Bert model for German to English translation. We can also use Fairseq models which are available for both English to German and German to English.
 ```py

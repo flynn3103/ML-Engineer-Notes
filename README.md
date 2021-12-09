@@ -41,13 +41,14 @@
 * [2.2.4 Advanced Algorimths]()
 
 ## 3. Machine Learning Algorimths
-[3.1 Basic Algorimths]()
+[3.1 Basic Theories]()
 
-* [3.1.1 Logistic Regression]()
-* [3.1.2 Support Vector Machine]()
-* [3.1.3 Naive Bayes]()
-* [3.1.4 Metrics For Evaluations]()
-* [3.1.5 Bias Variance Trade-off]()
+* [3.1.1 Algorimths]()
+* [3.1.2 Model Validation]()
+* [3.1.3 Bias Variance Trade-off]()
+* [3.1.4 Hyperparameter Tuning]()
+* [3.1.5 XGBoosting]()
+* [3.1.5 Cluster Analysis]()
 
 [3.2 Ensemble Algorimths]()
 * [3.2.1 Bagging]()
@@ -55,23 +56,20 @@
 * [3.2.3 Stacking]()
 
 ## 4. Deep Learning
-[4.2 Deep Learning with Tensorflow & Keras]()
-* [4.2.1 Framework for Deep Learning]()
-* [4.2.2 Better Learning]()
-* [4.2.3 Better Generalizaion]()
-* [4.2.4 Better Predictions]()
+[4.2 Baseline Concept]()
+* [4.2.1 How to build Deep Neural Network](Deep_Learning/DNN.md)
+* [4.2.1 How to build Deep Learning Framework]()
+* [4.2.1 Tensorflow & Keras]()
+* [4.2.2 PyTorch]()
 
-[4.2 Better Deep Learning]()
-* [4.2.1 Framework for Deep Learning]()
-* [4.2.2 Better Learning]()
-* [4.2.3 Better Generalizaion]()
-* [4.2.4 Better Predictions]()
 
-[4.3 Transfer Learning]()
-* [4.2.1 Framework for Deep Learning]()
+[4.2 Fine Tuning Deep Learning]()
+* [4.2.1 Baseline for better Deep Learning]()
 * [4.2.2 Better Learning]()
 * [4.2.3 Better Generalizaion]()
 * [4.2.4 Better Predictions]()
+* [4.2.5 Transfer Learning]()
+
 
 ## 5. Computer Vision
 [5.1 Image Data Manipulation]()
@@ -103,10 +101,9 @@
 [6.1 Text Data Manipulation]()
 * [6.1.1 Basics Regular Expression](NLP/RegEx.md)
 * [6.1.2 NLP Feature Engineering]()
-* [6.1.3 Word Embeddings]()
-* [6.1.4 Text Data Augmentation](NLP/augumentation.md)
+* [6.1.3 Text Data Augmentation](NLP/augumentation.md)
 
-[6.2 LSTM]()
+[6.2 Model Architects]()
 * [6.2.1 Introduction LSTM]()
 * [6.2.2 Encoder-Decoder LSTMs]()
 * [6.2.3 Bidirectional LSTMs]()
@@ -196,7 +193,7 @@
 
 [8.12 Data Privacy for Machine Learning]()
 
-## 10. Design Large Scale ML System
+## 9. Design Large Scale ML System
 [7.1 Basics Theories]()
 * [5.1.1 Basics Regular Expression ]()
 * [5.1.2 Clean Text Manually and with NLTK]()
