@@ -40,7 +40,7 @@
 * [2.2.3 Cost Sensitive]()
 * [2.2.4 Advanced Algorimths]()
 
-## 3. Machine Learning Algorimths
+## 3. Machine Learning Theories
 [3.1 Basic Theories]()
 
 * [3.1.1 Algorimths]()
@@ -55,11 +55,9 @@
 * [3.2.2 Boosting]()
 * [3.2.3 Stacking]()
 
-## 4. Deep Learning
+## 4. Deep Learning Theories
 [4.2 Baseline Concept]()
-* [4.2.1 How to build Deep Neural Network](Deep_Learning/DNN.md)
 * [4.2.1 How to build Deep Learning Framework]()
-* [4.2.1 Tensorflow & Keras]()
 * [4.2.2 PyTorch]()
 
 
@@ -124,48 +122,7 @@
 * [5.1.4 Machine Translation]()
 * [5.1.4 Text Generation]()
 
-## 7. Time Series Forecasting
-[7.1 Time Series Data Manipulation]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
 
-[7.1 Temporal Structure]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Evaluate Models]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Forecast Models]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Univariate Forecasting]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Multi-step Forecasting]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Time Series Classification]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
 
 
 ## 8. Machine Learning Pipelines
