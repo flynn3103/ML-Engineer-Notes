@@ -122,8 +122,11 @@
 * [5.1.4 Machine Translation]()
 * [5.1.4 Text Generation]()
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 691ec7d95993c5b6e0d0d1ccd7519dafa2572129
 
 ## 8. Machine Learning Pipelines
 [8.1 Introduction to TensorFlow Extended]()
