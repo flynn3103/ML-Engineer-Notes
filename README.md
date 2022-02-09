@@ -124,49 +124,6 @@
 * [5.1.4 Machine Translation]()
 * [5.1.4 Text Generation]()
 
-## 7. Time Series Forecasting
-[7.1 Time Series Data Manipulation]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Temporal Structure]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Evaluate Models]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Forecast Models]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Univariate Forecasting]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Multi-step Forecasting]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Time Series Classification]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
 
 ## 8. Machine Learning Pipelines
 [8.1 Introduction to TensorFlow Extended]()
