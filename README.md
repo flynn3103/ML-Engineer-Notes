@@ -1,4 +1,4 @@
-# Machine Learning University
+# Machine Learning Engineering Notebook
 
 ## 1. Mathematics Foudations
 
@@ -56,7 +56,7 @@
 * [3.2.3 Stacking]()
 
 ## 4. Deep Learning Theories
-[4.2 Baseline Concept]()
+[4.2 Basics Concept]()
 * [4.2.1 How to build Deep Learning Framework]()
 * [4.2.2 PyTorch]()
 
@@ -83,16 +83,10 @@
 * [5.2.4 How Pooling Layers Work]() 
 
 [5.3 Common Architects for CNN ]()
-* [5.2.1 How to Use Different Color Channel Ordering Formats]()
-* [5.2.2 How Convolutional Layers Work]()
-* [5.2.3 How to Use Filter Size, Padding, and Stride]()
-* [5.2.4 How Pooling Layers Work]()
+
 
 [5.4 Generative Model]()
-* [5.2.1 How to Use Different Color Channel Ordering Formats]()
-* [5.2.2 How Convolutional Layers Work]()
-* [5.2.3 How to Use Filter Size, Padding, and Stride]()
-* [5.2.4 How Pooling Layers Work]() 
+
 
 
 ## 6. Natural Language Processing
@@ -100,15 +94,6 @@
 * [6.1.1 Basics Regular Expression](NLP/RegEx.md)
 * [6.1.2 NLP Feature Engineering]()
 * [6.1.3 Text Data Augmentation](NLP/augumentation.md)
-
-[6.2 Model Architects]()
-* [6.2.1 Introduction LSTM]()
-* [6.2.2 Encoder-Decoder LSTMs]()
-* [6.2.3 Bidirectional LSTMs]()
-* [6.2.4 Generative LSTMs]()
-* [6.2.5 Diagnose and Tune LSTMs]()
-* [6.2.6 Make Predictions with LSTMs]()
-* [6.2.7 How to Update LSTM Models]()
 
 [6.4 Transformers]()
 * [5.1.1 Basics Concpet]()
@@ -122,52 +107,8 @@
 * [5.1.4 Machine Translation]()
 * [5.1.4 Text Generation]()
 
-<<<<<<< HEAD
+
+## 7. Machine Learning Pipelines
 
 
-=======
->>>>>>> 691ec7d95993c5b6e0d0d1ccd7519dafa2572129
-
-## 8. Machine Learning Pipelines
-[8.1 Introduction to TensorFlow Extended]()
-
-[8.2 Data Ingestion]()
-
-[8.3 Data Validation]()
-
-[8.4 Data Preprocessing]()
-
-[8.5 Model Training]()
-
-[8.6 Model Analysis and Validation]()
-
-[8.7 Model Deployment with TensorFlow Serving]()
-
-[8.8 Advanced Model Deployments with TensorFlow Serving]()
-
-[8.9 Pipelines Part 1: Apache Beam and Apache Airflow]()
-
-[8.10 Pipelines Part 2: Kubeflow Pipelines]()
-
-[8.11 Feedback Loops]()
-
-[8.12 Data Privacy for Machine Learning]()
-
-## 9. Design Large Scale ML System
-[7.1 Basics Theories]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 Software Engineering for Data Science]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
-
-[7.1 ML System Design Examples]()
-* [5.1.1 Basics Regular Expression ]()
-* [5.1.2 Clean Text Manually and with NLTK]()
-* [5.1.3 NLP Feature Engineering]()
-* [5.1.4 Text Data Augmentation]()
+## 8. Design Large Scale ML System
