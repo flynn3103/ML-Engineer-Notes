@@ -41,13 +41,14 @@
 * [2.2.4 Advanced Algorimths]()
 
 ## 3. Machine Learning Theories
-[3.1 Algorimths]()
+[3.1 Build Algorimths From Scratch]()
 
 
 [3.2 Ensemble Algorimths]()
 * [3.2.1 Bagging]()
 * [3.2.2 Boosting]()
 * [3.2.3 Stacking]()
+* [3.2.4 XGBoost]()
 
 [3.3 Optimization]()
 
@@ -66,13 +67,13 @@
 
 ## 5. Computer Vision
 [5.1 Image Data Manipulation]()
-[5.3 Common Architects for CNN ]()
+[5.3 Common Architects for Computer Vision]()
 [5.4 Generative Model]()
-
-
 
 ## 6. Natural Language Processing
 [6.1 Text Data Manipulation]()
+
+[6.2 Common Architects for NLP and Speech]()
 
 [6.4 Transformers]()
 * [5.1.1 Basics Concpet]()
