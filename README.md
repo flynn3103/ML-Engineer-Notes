@@ -66,24 +66,13 @@
 
 ## 5. Computer Vision
 [5.1 Image Data Manipulation]()
-* [5.1.1 How to Load and Manipulate Images With PIL/Pillow]()
-* [5.1.2 Manually Scale Image Pixel Data]()
-* [5.1.3 Load Large Datasets From Directories]()
-* [5.1.4 Image Data Augmentation]()
-
-
 [5.3 Common Architects for CNN ]()
-
-
 [5.4 Generative Model]()
 
 
 
 ## 6. Natural Language Processing
 [6.1 Text Data Manipulation]()
-* [6.1.1 Basics Regular Expression](NLP/RegEx.md)
-* [6.1.2 NLP Feature Engineering]()
-* [6.1.3 Text Data Augmentation](NLP/augumentation.md)
 
 [6.4 Transformers]()
 * [5.1.1 Basics Concpet]()
