@@ -66,7 +66,7 @@
 
 
 ## 5. Computer Vision
-[5.1 Image Data Manipulation]()
+[5.1 Image Data Preparation]()
 [5.3 Common Architects for Computer Vision]()
 [5.4 Generative Model]()
 
