@@ -4,7 +4,7 @@
 
 [1.1 Linear Algebra]()
 
-* [1.1.1 Numpy Basics](Math/Linear_Algebra/Numpy.md)
+* [1.1.1 Numpy Basics]()
 * [1.1.2 Matrices]()
 * [1.1.3 Factorization]()
 
@@ -41,25 +41,20 @@
 * [2.2.4 Advanced Algorimths]()
 
 ## 3. Machine Learning Theories
-[3.1 Basic Theories]()
+[3.1 Algorimths]()
 
-* [3.1.1 Algorimths]()
-* [3.1.2 Model Validation]()
-* [3.1.3 Bias Variance Trade-off]()
-* [3.1.4 Hyperparameter Tuning]()
-* [3.1.5 XGBoosting]()
-* [3.1.5 Cluster Analysis]()
 
 [3.2 Ensemble Algorimths]()
 * [3.2.1 Bagging]()
 * [3.2.2 Boosting]()
 * [3.2.3 Stacking]()
 
+[3.3 Optimization]()
+
+
 ## 4. Deep Learning Theories
 [4.2 Basics Concept]()
 * [4.2.1 How to build Deep Learning Framework]()
-* [4.2.2 PyTorch]()
-
 
 [4.2 Fine Tuning Deep Learning]()
 * [4.2.1 Baseline for better Deep Learning]()
@@ -76,11 +71,6 @@
 * [5.1.3 Load Large Datasets From Directories]()
 * [5.1.4 Image Data Augmentation]()
 
-[5.2 Convolutions and Pooling]()
-* [5.2.1 How to Use Different Color Channel Ordering Formats]()
-* [5.2.2 How Convolutional Layers Work]()
-* [5.2.3 How to Use Filter Size, Padding, and Stride]()
-* [5.2.4 How Pooling Layers Work]() 
 
 [5.3 Common Architects for CNN ]()
 
