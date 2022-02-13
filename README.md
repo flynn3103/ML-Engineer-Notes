@@ -71,7 +71,7 @@
 [5.4 Generative Model]()
 
 ## 6. Natural Language Processing
-[6.1 Text Data Manipulation]()
+[6.1 Data Preparation]()
 
 [6.2 Common Architects for NLP and Speech]()
 
