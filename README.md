@@ -1,6 +1,6 @@
 # Machine Learning Engineering Notebook
 
-## 1. Mathematics Foudations
+<!-- ## 1. Mathematics Foudations
 
 [1.1 Linear Algebra]()
 
@@ -91,4 +91,4 @@
 ## 7. Machine Learning Pipelines
 
 
-## 8. Design Large Scale ML System
+## 8. Design Large Scale ML System -->
