@@ -1,6 +1,6 @@
 # Machine Learning Engineering Notebook
 
-<!-- ## 1. Mathematics Foudations
+## 1. Mathematics Foudations
 
 [1.1 Linear Algebra]()
 
@@ -56,6 +56,7 @@
 ## 4. Deep Learning Theories
 [4.2 Basics Concept]()
 * [4.2.1 How to build Deep Learning Framework]()
+* [4.2.2 Introduction to Keras, Tensorflow]()
 
 [4.2 Fine Tuning Deep Learning]()
 * [4.2.1 Baseline for better Deep Learning]()
@@ -69,12 +70,11 @@
 [5.1 Image Data Preparation]()
 [5.3 Common Architects for Computer Vision]()
 [5.4 Generative Model]()
+[5.5 Vision Transformer]()
 
 ## 6. Natural Language Processing
 [6.1 Data Preparation]()
-
 [6.2 Common Architects for NLP and Speech]()
-
 [6.4 Transformers]()
 * [5.1.1 Basics Concpet]()
 * [5.1.2 BERT]()
@@ -91,4 +91,3 @@
 ## 7. Machine Learning Pipelines
 
 
-## 8. Design Large Scale ML System -->
