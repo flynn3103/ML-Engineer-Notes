@@ -56,7 +56,6 @@
 ## 4. Deep Learning Theories
 [4.2 Basics Concept]()
 * [4.2.1 How to build Deep Learning Framework]()
-* [4.2.2 Introduction to Keras, Tensorflow]()
 
 [4.2 Fine Tuning Deep Learning]()
 * [4.2.1 Baseline for better Deep Learning]()
@@ -64,30 +63,5 @@
 * [4.2.3 Better Generalizaion]()
 * [4.2.4 Better Predictions]()
 * [4.2.5 Transfer Learning]()
-
-
-## 5. Computer Vision
-[5.1 Image Data Preparation]()
-[5.3 Common Architects for Computer Vision]()
-[5.4 Generative Model]()
-[5.5 Vision Transformer]()
-
-## 6. Natural Language Processing
-[6.1 Data Preparation]()
-[6.2 Common Architects for NLP and Speech]()
-[6.4 Transformers]()
-* [5.1.1 Basics Concpet]()
-* [5.1.2 BERT]()
-* [5.1.2 Data Preparation for BERT]()
-* [5.1.3 XLM RoBerta]()`
-* [5.1.4 PhoBERT]()
-* [5.1.4 Fine Tuning BERT]()
-* [5.1.4 Text Classification]()
-* [5.1.4 Question Answering]()
-* [5.1.4 Machine Translation]()
-* [5.1.4 Text Generation]()
-
-
-## 7. Machine Learning Pipelines
 
 
